@@ -1,0 +1,9 @@
+# src/requirements.txt
+
+python-dotenv  # Used to load environment variables from .env files for managing configuration settings
+pandas         # Core data manipulation and analysis library; provides DataFrame structure and methods like to_parquet
+watchdog       # Used for monitoring the file system for changes, triggering synchronization events
+pyarrow        # Dependency required by pandas to support efficient Parquet file handling; works well with pandas for IO operations
+# fastparquet  # Optional alternative to pyarrow for handling Parquet files in pandas; use if compatibility issues arise with pyarrow
+pprintpp       # Pretty print extension for Python, used to enhance the readability of log messages and debugging output
+
