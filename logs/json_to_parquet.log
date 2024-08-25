@@ -1,0 +1,3 @@
+2024-08-25 03:33:05,086 - INFO - Attempting to read JSON file from: /root/interviews/cohere/json_input/iris.json
+2024-08-25 03:33:05,087 - INFO - Successfully read JSON file: /root/interviews/cohere/json_input/iris.json
+2024-08-25 03:33:05,104 - INFO - Converted /root/interviews/cohere/json_input/iris.json to /root/interviews/cohere/parquet_raw/iris.parquet

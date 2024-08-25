@@ -1,0 +1,6 @@
+2024-08-25 03:33:05,204 - INFO - Synchronized /root/interviews/cohere/parquet_raw with /root/interviews/cohere/parquet_final
+2024-08-25 03:33:05,368 - INFO - Synchronized /root/interviews/cohere/parquet_raw with /root/interviews/cohere/parquet_final
+2024-08-25 03:33:05,542 - INFO - Synchronized /root/interviews/cohere/parquet_raw with /root/interviews/cohere/parquet_final
+2024-08-25 03:33:05,700 - INFO - Synchronized /root/interviews/cohere/parquet_raw with /root/interviews/cohere/parquet_final
+2024-08-25 03:33:05,859 - INFO - Synchronized /root/interviews/cohere/parquet_raw with /root/interviews/cohere/parquet_final
+2024-08-25 03:34:00,408 - INFO - Shutting down gracefully...
