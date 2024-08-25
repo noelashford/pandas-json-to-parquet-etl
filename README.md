@@ -36,7 +36,7 @@ flowchart TD
     D --> E[Enable Services]
     E --> F[Start Services]
     F --> G[Verify Service Status]
-    G --> H[Installation Complete]
+    G --> H[Install Script Done]
     Z --> H
 ```
 
