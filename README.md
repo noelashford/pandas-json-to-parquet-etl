@@ -1,4 +1,4 @@
-# COHERE Take Home: JSON to Parquet ETL Services
+# JSON to Parquet ETL Services
 
 This project includes two Python services: one for converting JSON files to Parquet format and another for synchronizing Parquet files between two directories. The services are designed to be robust, with comprehensive error checking, logging capabilities, and options for running in debug or production mode.
 
